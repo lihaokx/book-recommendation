@@ -1,2 +1,4 @@
-# Content-Based-Recommendation---Good-Reads-data
-Content Based Recommendation using Good read data
+# Content-Based-Recommendation system
+
+## Required modules:
+ pandas, numpy, nltk, sklearn, matplotlib, gensim 
