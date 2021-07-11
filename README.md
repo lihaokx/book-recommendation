@@ -24,6 +24,8 @@ Remove ASCII characters, converting lower case, removing stop words, html and pu
 
 ## Conclusion:
  The resutls show TF-IDF+Word2Vec model has a better similarities scores compared with other models.
+ 
+ ![Result](./result.png)
 
 
 
